@@ -1,1 +1,1 @@
-# Diabetes-Prediction
+Utilized innovative machine learning techniques to predict diabetes through a meticulously cleaned dataset comprising diverse medical and demographic information. Implemented SMOTE for outcome balancing and employed comprehensive data visualization for enhanced insights. Evaluated eight machine learning models, with Gradient Boosting identified as the most effective for early detection and management of diabetes.
